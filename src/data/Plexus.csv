@@ -686,6 +686,7 @@ Wahoo ELEMNT,November,2020,2,Gets to pairing screen-unable to test past this wit
 Waking Up,August,2020,X,X,4,No reported issues
 Wall Street Journal,November,2020,X,X,4,No reported issues
 Walmart,September,2020,X,X,4,No reported issues
+WarnWetter,March,2021,3,No push notifications at all,3,No push notifications and push error message after reload
 Water Store Puzzle,November,2020,X,X,4,No reported issues
 Waze,March,2020,1,"Unusable-maps don't load",2,"Unusable-maps don't load. There is a reported workaround to side-load an old APK then updating to regain map functionality. Details: https://github.com/techlore-official/plexus/issues/113#issuecomment-777272821"
 Wear OS by Google,November,2020,1,"Unusable without Google Play Services",X,X
